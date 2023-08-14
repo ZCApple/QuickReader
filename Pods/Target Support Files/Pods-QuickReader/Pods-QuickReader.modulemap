@@ -1,0 +1,6 @@
+framework module Pods_QuickReader {
+  umbrella header "Pods-QuickReader-umbrella.h"
+
+  export *
+  module * { export * }
+}
